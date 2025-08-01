@@ -64,7 +64,7 @@ const nextConfig = {
 
   // Configuración de experimental features
   experimental: {
-    optimizeCss: true,
+    optimizeCss: false, // Deshabilitado para evitar error con critters
     optimizePackageImports: ['lucide-react'],
   },
 
