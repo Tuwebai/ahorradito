@@ -1,0 +1,119 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    @apply bg-background;
+    height: 100%;
+  }
+
+  body {
+    @apply bg-background text-foreground min-h-screen;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  #__next {
+    height: 100%;
+  }
+}
+
+/* Scrollbar personalizado para tema oscuro */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1d24;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #4a5568;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #00bfff;
+}
+
+/* Animaciones personalizadas */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(10px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+.animate-slide-up {
+  animation: slideUp 0.3s ease-out;
+}
+
+/* Estilos para mejorar contraste */
+.shadow-dark {
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
+}
+
+.shadow-dark-lg {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3), 0 4px 6px -2px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilos para tarjetas con tema oscuro */
+.card-dark {
+  @apply bg-surface border border-border rounded-lg shadow-dark;
+}
+
+/* Estilos para botones con tema oscuro */
+.btn-primary {
+  @apply bg-primary text-primary-foreground hover:bg-primary-hover transition-colors duration-200;
+}
+
+.btn-secondary {
+  @apply bg-secondary text-secondary-foreground hover:bg-secondary-hover transition-colors duration-200;
+}
+
+/* Estilos para texto con mejor contraste */
+.text-highlight {
+  @apply text-secondary font-semibold;
+}
+
+.text-primary-highlight {
+  @apply text-primary font-semibold;
+}
+
+/* Estilos para elementos de ahorro */
+.savings-highlight {
+  @apply text-secondary bg-secondary/10 border border-secondary/20 rounded-md px-2 py-1;
+}
+
+/* Estilos para hover effects */
+.hover-glow-blue:hover {
+  box-shadow: 0 0 20px rgba(0, 191, 255, 0.3);
+}
+
+.hover-glow-green:hover {
+  box-shadow: 0 0 20px rgba(57, 255, 20, 0.3);
+}

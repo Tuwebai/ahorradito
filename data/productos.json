@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "nombre": "Leche Entera La Serenísima 1L",
+    "categoria": "Lácteos",
+    "marca": "La Serenísima",
+    "descripcion": "Leche entera pasteurizada, rica en calcio y proteínas"
+  },
+  {
+    "id": 2,
+    "nombre": "Arroz Integral Gallo 1kg",
+    "categoria": "Almacén",
+    "marca": "Gallo",
+    "descripcion": "Arroz integral de grano largo, rico en fibra"
+  },
+  {
+    "id": 3,
+    "nombre": "Cerveza Artesanal Patagonia 473ml",
+    "categoria": "Bebidas",
+    "marca": "Patagonia",
+    "descripcion": "Cerveza artesanal rubia, sabor único y refrescante"
+  },
+  {
+    "id": 4,
+    "nombre": "Pan de Miga Bimbo",
+    "categoria": "Panadería",
+    "marca": "Bimbo",
+    "descripcion": "Pan de miga fresco, ideal para sándwiches"
+  },
+  {
+    "id": 5,
+    "nombre": "Jugo de Naranja Cepita 1L",
+    "categoria": "Bebidas",
+    "marca": "Cepita",
+    "descripcion": "Jugo de naranja natural, sin conservantes"
+  },
+  {
+    "id": 6,
+    "nombre": "Yogur Griego Ser Natural 150g",
+    "categoria": "Lácteos",
+    "marca": "Ser",
+    "descripcion": "Yogur griego cremoso, alto en proteínas"
+  },
+  {
+    "id": 7,
+    "nombre": "Aceite de Oliva Nucete 500ml",
+    "categoria": "Almacén",
+    "marca": "Nucete",
+    "descripcion": "Aceite de oliva extra virgen, primera presión en frío"
+  },
+  {
+    "id": 8,
+    "nombre": "Coca Cola 2.25L",
+    "categoria": "Bebidas",
+    "marca": "Coca Cola",
+    "descripcion": "Bebida cola clásica, formato familiar"
+  },
+  {
+    "id": 9,
+    "nombre": "Queso Cremoso La Paulina 200g",
+    "categoria": "Lácteos",
+    "marca": "La Paulina",
+    "descripcion": "Queso cremoso untable, ideal para desayunos"
+  },
+  {
+    "id": 10,
+    "nombre": "Fideos Matarazzo Spaghetti 500g",
+    "categoria": "Almacén",
+    "marca": "Matarazzo",
+    "descripcion": "Fideos secos tipo espagueti, trigo candeal"
+  },
+  {
+    "id": 11,
+    "nombre": "Agua Mineral Villavicencio 2L",
+    "categoria": "Bebidas",
+    "marca": "Villavicencio",
+    "descripcion": "Agua mineral natural sin gas"
+  },
+  {
+    "id": 12,
+    "nombre": "Manteca La Serenísima 200g",
+    "categoria": "Lácteos",
+    "marca": "La Serenísima",
+    "descripcion": "Manteca sin sal, ideal para cocinar y untar"
+  },
+  {
+    "id": 13,
+    "nombre": "Azúcar Ledesma 1kg",
+    "categoria": "Almacén",
+    "marca": "Ledesma",
+    "descripcion": "Azúcar blanca refinada, cristales finos"
+  },
+  {
+    "id": 14,
+    "nombre": "Vino Tinto Alamos Malbec 750ml",
+    "categoria": "Bebidas",
+    "marca": "Alamos",
+    "descripcion": "Vino tinto Malbec de Mendoza, cuerpo medio"
+  },
+  {
+    "id": 15,
+    "nombre": "Dulce de Leche La Serenísima 400g",
+    "categoria": "Lácteos",
+    "marca": "La Serenísima",
+    "descripcion": "Dulce de leche clásico argentino, cremoso"
+  },
+  {
+    "id": 16,
+    "nombre": "Café Molido La Virginia 250g",
+    "categoria": "Almacén",
+    "marca": "La Virginia",
+    "descripcion": "Café molido tostado, mezcla especial"
+  },
+  {
+    "id": 17,
+    "nombre": "Cerveza Quilmes 1L",
+    "categoria": "Bebidas",
+    "marca": "Quilmes",
+    "descripcion": "Cerveza rubia clásica argentina"
+  },
+  {
+    "id": 18,
+    "nombre": "Huevos Blancos x12",
+    "categoria": "Lácteos",
+    "marca": "Granja del Sol",
+    "descripcion": "Huevos frescos de gallina, tamaño mediano"
+  },
+  {
+    "id": 19,
+    "nombre": "Harina 0000 Blancaflor 1kg",
+    "categoria": "Almacén",
+    "marca": "Blancaflor",
+    "descripcion": "Harina de trigo 0000, ideal para panificación"
+  },
+  {
+    "id": 20,
+    "nombre": "Gaseosa Sprite 2.25L",
+    "categoria": "Bebidas",
+    "marca": "Sprite",
+    "descripcion": "Gaseosa de lima-limón, refrescante"
+  },
+  {
+    "id": 21,
+    "nombre": "Atún La Campagnola 170g",
+    "categoria": "Conservas",
+    "marca": "La Campagnola",
+    "descripcion": "Atún al natural en lata, rico en proteínas"
+  },
+  {
+    "id": 22,
+    "nombre": "Mayonesa Hellmann's 500g",
+    "categoria": "Condimentos",
+    "marca": "Hellmann's",
+    "descripcion": "Mayonesa clásica, cremosa y sabrosa"
+  },
+  {
+    "id": 23,
+    "nombre": "Banana por kg",
+    "categoria": "Frutas y Verduras",
+    "marca": "Fresco",
+    "descripcion": "Banana fresca, rica en potasio y vitaminas"
+  },
+  {
+    "id": 24,
+    "nombre": "Tomate por kg",
+    "categoria": "Frutas y Verduras",
+    "marca": "Fresco",
+    "descripcion": "Tomate perita fresco, ideal para ensaladas"
+  },
+  {
+    "id": 25,
+    "nombre": "Detergente Magistral 750ml",
+    "categoria": "Limpieza",
+    "marca": "Magistral",
+    "descripcion": "Detergente líquido concentrado para ropa"
+  },
+  {
+    "id": 26,
+    "nombre": "Shampoo Sedal 350ml",
+    "categoria": "Higiene Personal",
+    "marca": "Sedal",
+    "descripcion": "Shampoo nutritivo para todo tipo de cabello"
+  },
+  {
+    "id": 27,
+    "nombre": "Papel Higiénico Higienol x4",
+    "categoria": "Higiene Personal",
+    "marca": "Higienol",
+    "descripcion": "Papel higiénico doble hoja, pack de 4 rollos"
+  },
+  {
+    "id": 28,
+    "nombre": "Galletitas Oreo 118g",
+    "categoria": "Golosinas",
+    "marca": "Oreo",
+    "descripcion": "Galletitas de chocolate con crema"
+  },
+  {
+    "id": 29,
+    "nombre": "Mermelada Arcor Durazno 454g",
+    "categoria": "Condimentos",
+    "marca": "Arcor",
+    "descripcion": "Mermelada de durazno, dulce tradicional"
+  },
+  {
+    "id": 30,
+    "nombre": "Pollo Entero por kg",
+    "categoria": "Carnes",
+    "marca": "Granja Tres Arroyos",
+    "descripcion": "Pollo entero fresco, criado a campo"
+  }
+]

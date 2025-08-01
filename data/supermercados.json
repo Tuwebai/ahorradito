@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombre": "Coto",
+    "ciudad": "Buenos Aires",
+    "direccion": "Av. Corrientes 1234",
+    "telefono": "+54 11 4567-8901"
+  },
+  {
+    "id": 2,
+    "nombre": "Carrefour",
+    "ciudad": "Buenos Aires",
+    "direccion": "Av. Santa Fe 2345",
+    "telefono": "+54 11 4567-8902"
+  },
+  {
+    "id": 3,
+    "nombre": "Disco",
+    "ciudad": "Buenos Aires",
+    "direccion": "Av. Cabildo 3456",
+    "telefono": "+54 11 4567-8903"
+  },
+  {
+    "id": 4,
+    "nombre": "Jumbo",
+    "ciudad": "Buenos Aires",
+    "direccion": "Av. del Libertador 4567",
+    "telefono": "+54 11 4567-8904"
+  },
+  {
+    "id": 5,
+    "nombre": "Walmart",
+    "ciudad": "Córdoba",
+    "direccion": "Av. Colón 1234",
+    "telefono": "+54 351 456-7890"
+  },
+  {
+    "id": 6,
+    "nombre": "Vea",
+    "ciudad": "Córdoba",
+    "direccion": "Av. Rafael Núñez 2345",
+    "telefono": "+54 351 456-7891"
+  },
+  {
+    "id": 7,
+    "nombre": "La Anónima",
+    "ciudad": "Rosario",
+    "direccion": "Av. Pellegrini 3456",
+    "telefono": "+54 341 456-7890"
+  },
+  {
+    "id": 8,
+    "nombre": "Libertad",
+    "ciudad": "Rosario",
+    "direccion": "Bv. Oroño 4567",
+    "telefono": "+54 341 456-7891"
+  },
+  {
+    "id": 9,
+    "nombre": "Día%",
+    "ciudad": "Mendoza",
+    "direccion": "Av. San Martín 1234",
+    "telefono": "+54 261 456-7890"
+  },
+  {
+    "id": 10,
+    "nombre": "Changomas",
+    "ciudad": "Mendoza",
+    "direccion": "Av. Las Heras 2345",
+    "telefono": "+54 261 456-7891"
+  }
+]

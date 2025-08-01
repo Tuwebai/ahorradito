@@ -1,0 +1,722 @@
+[
+  {
+    "productoId": 1,
+    "supermercadoId": 1,
+    "precio": 450,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 1,
+    "supermercadoId": 2,
+    "precio": 420,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 1,
+    "supermercadoId": 3,
+    "precio": 465,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 1,
+    "supermercadoId": 4,
+    "precio": 440,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 2,
+    "supermercadoId": 1,
+    "precio": 890,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 2,
+    "supermercadoId": 2,
+    "precio": 850,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 2,
+    "supermercadoId": 3,
+    "precio": 920,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 2,
+    "supermercadoId": 4,
+    "precio": 875,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 3,
+    "supermercadoId": 1,
+    "precio": 380,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 3,
+    "supermercadoId": 2,
+    "precio": 350,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 3,
+    "supermercadoId": 3,
+    "precio": 395,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 3,
+    "supermercadoId": 4,
+    "precio": 370,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 4,
+    "supermercadoId": 1,
+    "precio": 320,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 4,
+    "supermercadoId": 2,
+    "precio": 310,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 4,
+    "supermercadoId": 3,
+    "precio": 335,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 4,
+    "supermercadoId": 4,
+    "precio": 325,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 5,
+    "supermercadoId": 1,
+    "precio": 280,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 5,
+    "supermercadoId": 2,
+    "precio": 260,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 5,
+    "supermercadoId": 3,
+    "precio": 295,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 5,
+    "supermercadoId": 4,
+    "precio": 275,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 6,
+    "supermercadoId": 1,
+    "precio": 180,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 6,
+    "supermercadoId": 2,
+    "precio": 165,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 6,
+    "supermercadoId": 3,
+    "precio": 190,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 6,
+    "supermercadoId": 4,
+    "precio": 175,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 7,
+    "supermercadoId": 1,
+    "precio": 1250,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 7,
+    "supermercadoId": 2,
+    "precio": 1180,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 7,
+    "supermercadoId": 3,
+    "precio": 1300,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 7,
+    "supermercadoId": 4,
+    "precio": 1220,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 8,
+    "supermercadoId": 1,
+    "precio": 1450,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 8,
+    "supermercadoId": 2,
+    "precio": 1380,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 8,
+    "supermercadoId": 3,
+    "precio": 1500,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 8,
+    "supermercadoId": 4,
+    "precio": 1420,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 9,
+    "supermercadoId": 1,
+    "precio": 650,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 9,
+    "supermercadoId": 2,
+    "precio": 620,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 9,
+    "supermercadoId": 3,
+    "precio": 680,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 9,
+    "supermercadoId": 4,
+    "precio": 640,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 10,
+    "supermercadoId": 1,
+    "precio": 420,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 10,
+    "supermercadoId": 2,
+    "precio": 390,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 10,
+    "supermercadoId": 3,
+    "precio": 450,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 10,
+    "supermercadoId": 4,
+    "precio": 410,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 11,
+    "supermercadoId": 1,
+    "precio": 320,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 11,
+    "supermercadoId": 2,
+    "precio": 295,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 11,
+    "supermercadoId": 3,
+    "precio": 340,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 11,
+    "supermercadoId": 4,
+    "precio": 310,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 12,
+    "supermercadoId": 1,
+    "precio": 580,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 12,
+    "supermercadoId": 2,
+    "precio": 550,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 12,
+    "supermercadoId": 3,
+    "precio": 600,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 12,
+    "supermercadoId": 4,
+    "precio": 570,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 13,
+    "supermercadoId": 1,
+    "precio": 680,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 13,
+    "supermercadoId": 2,
+    "precio": 650,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 13,
+    "supermercadoId": 3,
+    "precio": 720,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 13,
+    "supermercadoId": 4,
+    "precio": 690,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 14,
+    "supermercadoId": 1,
+    "precio": 2800,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 14,
+    "supermercadoId": 2,
+    "precio": 2650,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 14,
+    "supermercadoId": 3,
+    "precio": 2900,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 14,
+    "supermercadoId": 4,
+    "precio": 2750,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 15,
+    "supermercadoId": 1,
+    "precio": 890,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 15,
+    "supermercadoId": 2,
+    "precio": 850,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 15,
+    "supermercadoId": 3,
+    "precio": 920,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 15,
+    "supermercadoId": 4,
+    "precio": 870,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 16,
+    "supermercadoId": 1,
+    "precio": 1250,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 16,
+    "supermercadoId": 2,
+    "precio": 1180,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 16,
+    "supermercadoId": 3,
+    "precio": 1300,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 16,
+    "supermercadoId": 4,
+    "precio": 1220,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 17,
+    "supermercadoId": 1,
+    "precio": 1350,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 17,
+    "supermercadoId": 2,
+    "precio": 1280,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 17,
+    "supermercadoId": 3,
+    "precio": 1400,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 17,
+    "supermercadoId": 4,
+    "precio": 1320,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 18,
+    "supermercadoId": 1,
+    "precio": 1200,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 18,
+    "supermercadoId": 2,
+    "precio": 1150,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 18,
+    "supermercadoId": 3,
+    "precio": 1250,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 18,
+    "supermercadoId": 4,
+    "precio": 1180,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 19,
+    "supermercadoId": 1,
+    "precio": 520,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 19,
+    "supermercadoId": 2,
+    "precio": 480,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 19,
+    "supermercadoId": 3,
+    "precio": 550,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 19,
+    "supermercadoId": 4,
+    "precio": 500,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 20,
+    "supermercadoId": 1,
+    "precio": 1380,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 20,
+    "supermercadoId": 2,
+    "precio": 1320,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 20,
+    "supermercadoId": 3,
+    "precio": 1420,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 20,
+    "supermercadoId": 4,
+    "precio": 1350,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 21,
+    "supermercadoId": 1,
+    "precio": 850,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 21,
+    "supermercadoId": 2,
+    "precio": 820,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 21,
+    "supermercadoId": 3,
+    "precio": 880,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 21,
+    "supermercadoId": 4,
+    "precio": 840,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 22,
+    "supermercadoId": 1,
+    "precio": 1180,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 22,
+    "supermercadoId": 2,
+    "precio": 1120,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 22,
+    "supermercadoId": 3,
+    "precio": 1220,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 22,
+    "supermercadoId": 4,
+    "precio": 1150,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 23,
+    "supermercadoId": 1,
+    "precio": 1200,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 23,
+    "supermercadoId": 2,
+    "precio": 1150,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 23,
+    "supermercadoId": 3,
+    "precio": 1250,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 23,
+    "supermercadoId": 4,
+    "precio": 1180,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 24,
+    "supermercadoId": 1,
+    "precio": 2200,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 24,
+    "supermercadoId": 2,
+    "precio": 2100,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 24,
+    "supermercadoId": 3,
+    "precio": 2300,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 24,
+    "supermercadoId": 4,
+    "precio": 2150,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 25,
+    "supermercadoId": 1,
+    "precio": 890,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 25,
+    "supermercadoId": 2,
+    "precio": 850,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 25,
+    "supermercadoId": 3,
+    "precio": 920,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 25,
+    "supermercadoId": 4,
+    "precio": 870,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 26,
+    "supermercadoId": 1,
+    "precio": 1350,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 26,
+    "supermercadoId": 2,
+    "precio": 1290,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 26,
+    "supermercadoId": 3,
+    "precio": 1420,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 26,
+    "supermercadoId": 4,
+    "precio": 1320,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 27,
+    "supermercadoId": 1,
+    "precio": 1800,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 27,
+    "supermercadoId": 2,
+    "precio": 1720,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 27,
+    "supermercadoId": 3,
+    "precio": 1850,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 27,
+    "supermercadoId": 4,
+    "precio": 1780,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 28,
+    "supermercadoId": 1,
+    "precio": 420,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 28,
+    "supermercadoId": 2,
+    "precio": 390,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 28,
+    "supermercadoId": 3,
+    "precio": 450,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 28,
+    "supermercadoId": 4,
+    "precio": 410,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 29,
+    "supermercadoId": 1,
+    "precio": 680,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 29,
+    "supermercadoId": 2,
+    "precio": 650,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 29,
+    "supermercadoId": 3,
+    "precio": 720,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 29,
+    "supermercadoId": 4,
+    "precio": 670,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 30,
+    "supermercadoId": 1,
+    "precio": 3200,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 30,
+    "supermercadoId": 2,
+    "precio": 2980,
+    "fechaActualizacion": "2024-01-15"
+  },
+  {
+    "productoId": 30,
+    "supermercadoId": 3,
+    "precio": 3350,
+    "fechaActualizacion": "2024-01-14"
+  },
+  {
+    "productoId": 30,
+    "supermercadoId": 4,
+    "precio": 3100,
+    "fechaActualizacion": "2024-01-15"
+  }
+]

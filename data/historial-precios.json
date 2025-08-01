@@ -1,0 +1,29 @@
+[
+  {
+    "productoId": 1,
+    "supermercadoId": 1,
+    "historial": [
+      { "fecha": "2024-01-01", "precio": 480 },
+      { "fecha": "2024-01-08", "precio": 470 },
+      { "fecha": "2024-01-15", "precio": 450 }
+    ]
+  },
+  {
+    "productoId": 1,
+    "supermercadoId": 2,
+    "historial": [
+      { "fecha": "2024-01-01", "precio": 460 },
+      { "fecha": "2024-01-08", "precio": 440 },
+      { "fecha": "2024-01-15", "precio": 420 }
+    ]
+  },
+  {
+    "productoId": 2,
+    "supermercadoId": 1,
+    "historial": [
+      { "fecha": "2024-01-01", "precio": 340 },
+      { "fecha": "2024-01-08", "precio": 330 },
+      { "fecha": "2024-01-15", "precio": 320 }
+    ]
+  }
+]
