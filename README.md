@@ -7,7 +7,7 @@
 
 ## 📖 Descripción
 
-**Ahorradito** es una aplicación web moderna que te ayuda a ahorrar dinero comparando precios de productos entre diferentes supermercados. Con una interfaz oscura y elegante, podés encontrar las mejores ofertas y optimizar tu presupuesto familiar.
+**Ahorradito** es una aplicación web moderna que te ayuda a ahorrar dinero comparando precios de productos entre diferentes supermercados. Con una interfaz oscura y elegante, podés encontrar las mejores ofertas y optimizar tu presupuesto familiar....
 
 ### ✨ Características Principales
 
